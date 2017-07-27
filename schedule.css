@@ -1,0 +1,48 @@
+html {
+    background-color: darkgray;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color:azure;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    font-family: 'Fresca', sans-serif;
+    font-family: 'Kurale', serif;
+    
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: darkgray;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+    font-size: 60px;
+}
+
+#b1{
+    display: block;
+  width: 25%;
+  margin: 0 auto;
+    border-radius: 50%;
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+table {
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+    background-color: #E6E6E6;
+}
